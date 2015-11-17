@@ -6,7 +6,7 @@ import org.junit.Test;
 public class SumaTest {
 
 	//primer cambio del código
-	//primer cambio del código
+	//modificación del código
 	
 	@Test
 	   public void sumaPositivos() {
